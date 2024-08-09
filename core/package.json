@@ -22,7 +22,7 @@
         "ethers": "^4.0.45",
         "maci-config": "^0.9.1",
         "maci-crypto": "^0.9.1",
-        "maci-domainobjs": "^0.9.1",
+        "maci-domainobjs": "^0.10.0",
         "module-alias": "^2.2.2"
     },
     "devDependencies": {
