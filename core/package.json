@@ -21,7 +21,7 @@
     "dependencies": {
         "ethers": "^4.0.45",
         "maci-config": "^0.9.1",
-        "maci-crypto": "^0.9.1",
+        "maci-crypto": "^1.2.0",
         "maci-domainobjs": "^0.9.1",
         "module-alias": "^2.2.2"
     },
