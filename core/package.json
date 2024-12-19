@@ -23,7 +23,7 @@
         "maci-config": "^0.9.1",
         "maci-crypto": "^1.2.0",
         "maci-domainobjs": "^0.9.1",
-        "module-alias": "^2.2.2"
+        "module-alias": "^2.2.3"
     },
     "devDependencies": {
         "@types/jest": "^24.0.25",
