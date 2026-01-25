@@ -19,7 +19,7 @@
         "@maci-contracts": "../contracts"
     },
     "dependencies": {
-        "ethers": "^4.0.45",
+        "ethers": "^5.0.0",
         "maci-config": "^0.9.1",
         "maci-crypto": "^1.2.0",
         "maci-domainobjs": "^0.9.1",
